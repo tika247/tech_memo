@@ -1,0 +1,1 @@
+https://www.syncfusion.com/blogs/post/solid-principles-in-javascript.aspx
