@@ -42,3 +42,10 @@ var z = x;
 Whereas the example above, the '=' (assign operator) never allocate memory space, just `z` takes reference from `x`.
 
 ## null is Object!
+
+## assignment passed by valuer or by reference.
+
+- primitive data types
+    - passed by value
+- non-primitive data types
+    - passed by reference

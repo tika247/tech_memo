@@ -1,0 +1,1 @@
+https://se-tomo.com/2018/12/19/%E3%80%90php%E3%80%91spl_autoload_register%E3%81%A8%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AD%E3%83%BC%E3%83%89/

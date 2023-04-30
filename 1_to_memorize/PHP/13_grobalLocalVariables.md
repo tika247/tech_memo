@@ -1,0 +1,1 @@
+https://magazine.techacademy.jp/magazine/26784

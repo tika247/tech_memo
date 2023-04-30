@@ -37,9 +37,18 @@ https://developer.mozilla.org/ja/docs/Web/Accessibility/ARIA/Roles/Tab_Role
     - aria-current="location"
 - グロナビ
     - aria-current="page" 
+- flow図
+    - aria-current="step" 
 
 https://developer.mozilla.org/en-US/docs/Web/API/Element/ariaCurrent
 
-## label要素とselect要素の関連付け
+## form系要素の関連付け
+
+- label要素とselect要素の関連付け 
+- label要素とtextarea要素の関連付け 
 
 https://accessible-usable.net/2013/04/entry_130407.html
+
+## lazy-load
+
+add `loading="lazy"` for large images
