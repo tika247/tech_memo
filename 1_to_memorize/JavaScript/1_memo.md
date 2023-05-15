@@ -357,3 +357,24 @@ https://developer.mozilla.org/en-US/docs/Web/API/Element/replaceWith
 
 ■replaceChild()
 https://developer.mozilla.org/en-US/docs/Web/API/Node/replaceChild
+
+## to access to Class-prototype
+
+- Class Constructor
+    - `.prototype`
+- Class Instance
+    - `.__proto__`
+
+``` js
+Class Dog {
+  // something
+}
+
+const dog1 = new Dog();
+
+console.log(Dog.prototype);
+// constructor: ƒ Dog(name, breed) bark: ƒ bark()
+
+console.log(dog1.__proto__);
+// constructor: ƒ Dog(name, breed) bark: ƒ bark()
+```

@@ -1,0 +1,3 @@
+# file permission
+
+https://www.profuture.co.jp/mk/column/41710#:~:text=%E6%96%B9%E6%B3%95%E3%82%92%E8%A7%A3%E8%AA%AC%EF%BC%81-,%E3%81%BE%E3%81%A8%E3%82%81,%E3%82%89%E3%82%8C%E3%82%8B%E3%80%81%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E6%A8%A9%E9%99%90%E3%81%AE%E3%81%93%E3%81%A8%E3%80%82
