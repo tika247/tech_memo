@@ -1,0 +1,16 @@
+
+
+## JIT Compiler
+
+The Just-In-Time (JIT) compiler improves PHP’s performance by compiling parts of the code at runtime.
+
+## Preloading
+
+Improves performance by preloading frequently used PHP files into memory.
+
+Example:
+
+``` ini
+// In php.ini
+opcache.preload=/path/to/preload.php
+```

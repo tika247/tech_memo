@@ -49,3 +49,24 @@ https://www.imperva.com/learn/application-security/buffer-overflow/
 ## Controll Charactors
 
 制御コード（タブなど機械的な特殊文字）
+
+## brute-force
+
+ブルートフォース攻撃
+
+## dictionary attacks
+
+辞書攻撃
+
+## man-in-the-middle attacks
+
+- 中間者攻撃
+    - 二者間の通信に入り込み、通信内容を盗み見たり、書き換えたりする攻撃
+
+## I/O operation
+
+入出力操作
+
+## ampersand
+
+`&`

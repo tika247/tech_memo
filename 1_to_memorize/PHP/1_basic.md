@@ -43,7 +43,7 @@ echo $b;
 - return
     - stop in a scope. ex if return is used in a function, the following codes in the function will not be read but codes followed by that function will be read
 
-## to add a new value into array
+## to add a new value into array instead of using `array_push()`
 
 ```php
 $fruit = ["Apple", "Banana", "Cherry"];
@@ -51,3 +51,17 @@ $fruit[] = "orange";
 
 echo $fruit[3] // return
 ```
+
+## case sensitive
+
+PHP is partially case sensitive
+
+- variable
+    - case sensitive
+- function
+    - not case sensitive
+        - if you define the function name in lowercase and call them in uppercase, it will still work
+
+## Cookie & Session
+
+https://zenn.dev/masahiro_toba/books/3daf7dc0d5dfd7/viewer/66f9d4
